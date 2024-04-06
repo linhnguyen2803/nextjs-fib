@@ -178,7 +178,7 @@ export default function Home() {
                             {/* <!-- Avatar --> */}
                             <a href="#" className="mx-auto">
                                 <img className="rounded-2xl drop-shadow-md hover:drop-shadow-xl transition-all duration-200 delay-100"
-                                    src="/taro01.jpg">
+                                    src="/taro02.png">
                                 </img>
                             </a>
 
@@ -186,7 +186,7 @@ export default function Home() {
                             <div className="text-center mt-6">
                                 {/* <!-- Name --> */}
                                 <h1 className="text-gray-700 text-xl font-bold mb-1">
-                                    TARO
+                                    Taro
                                 </h1>
 
                                 {/* <!-- Title --> */}
@@ -223,14 +223,14 @@ export default function Home() {
                             {/* <!-- Avatar --> */}
                             <a href="#" className="mx-auto">
                                 <img className="rounded-2xl drop-shadow-md hover:drop-shadow-xl transition-all duration-200 delay-100"
-                                    src="/Yuki01.jpg"></img>
+                                    src="/Yuki02.png"></img>
                             </a>
 
                             {/* <!-- Details --> */}
                             <div className="text-center mt-6">
                                 {/* <!-- Name --> */}
                                 <h1 className="text-gray-700 text-xl font-bold mb-1">
-                                    TANI YUKI
+                                    Tani Yuki
                                 </h1>
 
                                 {/* <!-- Title --> */}
@@ -266,14 +266,14 @@ export default function Home() {
                             {/* <!-- Avatar --> */}
                             <a href="#" className="mx-auto">
                                 <img className="rounded-2xl drop-shadow-md hover:drop-shadow-xl transition-all duration-200 delay-100"
-                                    src="/takahashi01.jpg"></img>
+                                    src="/takahashi01.png"></img>
                             </a>
 
                             {/* <!-- Details --> */}
                             <div className="text-center mt-6">
                                 {/* <!-- Name --> */}
                                 <h1 className="text-gray-700 text-xl font-bold mb-1">
-                                    TAKAHASHI
+                                    Takahashi
                                 </h1>
 
                                 {/* <!-- Title --> */}
@@ -308,7 +308,7 @@ export default function Home() {
                             {/* <!-- Avatar --> */}
                             <a href="#" className="mx-auto">
                                 <img className="rounded-2xl drop-shadow-md hover:drop-shadow-xl transition-all duration-200 delay-100"
-                                    src="/Ito01.jpg"></img>
+                                    src="/Ito01.png"></img>
                             </a>
 
                             {/* <!-- Details --> */}
@@ -351,14 +351,14 @@ export default function Home() {
                             {/* <!-- Avatar --> */}
                             <a href="#" className="mx-auto">
                                 <img className="rounded-2xl drop-shadow-md hover:drop-shadow-xl transition-all duration-200 delay-100"
-                                    src="/namakoto01.jpg"></img>
+                                    src="/namakoto01.png"></img>
                             </a>
 
                             {/* <!-- Details --> */}
                             <div className="text-center mt-6">
                                 {/* <!-- Name --> */}
                                 <h1 className="text-gray-700 text-xl font-bold mb-1">
-                                    NAKAMOTO
+                                    Nakamoto
                                 </h1>
 
                                 {/* <!-- Title --> */}
