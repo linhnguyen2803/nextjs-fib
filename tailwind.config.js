@@ -16,7 +16,9 @@ module.exports = {
         backgr: "url('/backgr2.jpg')",
         backgr1: "url('/anhnnen01.jpg')",
         backgr2: "url('/backgr2.jpg')",
-        
+        backgr3: "url('/Backr001.jpg')",
+        backgr4: "url('/Backr002.jpg')",
+        backgr5: "url('/Back003.jpg')",
       },
     },
   },
