@@ -250,9 +250,9 @@ export const view = (useService: UseService) => {
                     </div>
                   </div>
                 </div>
-                <div className="mt-5">
+                <div className="mt-20">
                   <img
-                    src="/FIB_token.jpg"
+                    src="/FIB_token.01.jpg.png"
                     alt="FIB"
                     className="bg-no-repeat bg-cover"
                   />
