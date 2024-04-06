@@ -23,12 +23,12 @@ function App({ Component,
   const [user, setUser] = useState(null)
   return (
     <div className={s.App}>
-      <div className={c(s.App_Main, "layout flex flex-col h-full max-h-screen")}>
+      <div className={c(s.main, "bg-backgr2 bg-no-repeat bg-cover bg-center")}>
           <Provider store={store}>
             
               <PersistGate loading={null} persistor={persistor}>
               
-                <Header/>
+                <Header />
 
                 <div className={c(s.App_Container, "relative h-full max-h-screen overflow-hidden bg-gray-100 dark:bg-gray-800") }>
                 <ToastContainer

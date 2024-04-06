@@ -16,7 +16,6 @@ export default function Home() {
         <meta name="viewport" content="width=device-width, initial-scale=1" />
         <link rel="icon" href="/favicon.ico" />
       </Head>
-      <main className={c(styles.main)}>
       <main
         className={c(styles.main, "bg-backgr2 bg-no-repeat bg-cover bg-center")}
       >
@@ -405,7 +404,6 @@ export default function Home() {
 
         </div>
       </div>
-      </main>
       </main>
     </>
   )

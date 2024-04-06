@@ -42,7 +42,7 @@ export const view = (useService: UseService) => {
         getListOrder(userStore.userInfo.token)
       } else {
         router.push({
-          pathname: "/home"
+          pathname: "/"
         })
       }
         
