@@ -107,7 +107,7 @@ export const view = (useService: UseService) => {
           <div className="container">
             {/* Overview of Financial Broker: */}
             <div className="mt-1">
-              <span className="text-[36px] leading-[44px] font-normal bg-gradient-to-r text-transparent bg-clip-text from-[#8D42E7] via-[#E7429B] to-[#E7A542]">
+              <span className="text-[40px] leading-[44px] font-normal bg-gradient-to-r text-transparent bg-clip-text from-[#8D42E7] via-[#E7429B] to-[#E7A542]">
                 Overview of Financial Broker:
               </span>
               <div className="grid gap-4">
@@ -117,7 +117,7 @@ export const view = (useService: UseService) => {
                       <span className="text-[36px] leading-[44px] font-normal bg-gradient-to-r text-transparent bg-clip-text from-[#8D42E7] via-[#E7429B] to-[#E7A542] mr-[30px]">
                         01
                       </span>
-                      <p className="font-normal text-[26px] text-neutral-50 leading-[44px]">
+                      <p className="font-normal text-[25px] text-neutral-50 leading-[44px]">
                         Name: Financial Broker
                       </p>
                     </div>
@@ -128,7 +128,7 @@ export const view = (useService: UseService) => {
                       <span className="text-[36px] leading-[44px] font-normal bg-gradient-to-r text-transparent bg-clip-text from-[#8D42E7] via-[#E7429B] to-[#E7A542] mr-[30px]">
                         02
                       </span>
-                      <p className="font-normal text-[26px] text-neutral-50 leading-[44px]">
+                      <p className="font-normal text-[25px] text-neutral-50 leading-[44px]">
                         Transaction name: FIB
                       </p>
                     </div>
@@ -139,7 +139,7 @@ export const view = (useService: UseService) => {
                       <span className="text-[36px] leading-[44px] font-normal bg-gradient-to-r text-transparent bg-clip-text from-[#8D42E7] via-[#E7429B] to-[#E7A542] mr-[30px]">
                         03
                       </span>
-                      <p className="font-normal text-[26px] text-neutral-50 leading-[44px]">
+                      <p className="font-normal text-[25px] text-neutral-50 leading-[44px]">
                         Type: Utility token
                       </p>
                     </div>
@@ -150,7 +150,7 @@ export const view = (useService: UseService) => {
                       <span className="text-[36px] leading-[44px] font-normal bg-gradient-to-r text-transparent bg-clip-text from-[#8D42E7] via-[#E7429B] to-[#E7A542] mr-[30px]">
                         04
                       </span>
-                      <p className="font-normal text-[26px] text-neutral-50 leading-[44px]">
+                      <p className="font-normal text-[25px] text-neutral-50 leading-[44px]">
                         Platform: BEP20
                       </p>
                     </div>
@@ -161,7 +161,7 @@ export const view = (useService: UseService) => {
                       <span className="text-[36px] leading-[44px] font-normal bg-gradient-to-r text-transparent bg-clip-text from-[#8D42E7] via-[#E7429B] to-[#E7A542] mr-[30px]">
                         05
                       </span>
-                      <p className="font-normal text-[26px] text-neutral-50 leading-[44px]">
+                      <p className="font-normal text-[25px] text-neutral-50 leading-[44px]">
                         Contract: 0xef4D5D93B3A49F7ea0cdE55BF52ae788476Bc0c5
                       </p>
                     </div>
@@ -172,7 +172,7 @@ export const view = (useService: UseService) => {
                       <span className="text-[36px] leading-[44px] font-normal bg-gradient-to-r text-transparent bg-clip-text from-[#8D42E7] via-[#E7429B] to-[#E7A542] mr-[30px]">
                         06
                       </span>
-                      <p className="font-normal text-[26px] text-neutral-50 leading-[44px]">
+                      <p className="font-normal text-[25px] text-neutral-50 leading-[44px]">
                         Total supply: 1,100,000,000 FIB
                       </p>
                     </div>
@@ -183,7 +183,7 @@ export const view = (useService: UseService) => {
                       <span className="text-[36px] leading-[44px] font-normal bg-gradient-to-r text-transparent bg-clip-text from-[#8D42E7] via-[#E7429B] to-[#E7A542] mr-[30px]">
                         07
                       </span>
-                      <p className="font-normal text-[26px] text-neutral-50 leading-[44px]">
+                      <p className="font-normal text-[25px] text-neutral-50 leading-[44px]">
                         Introductory price: $0.015/FIB
                       </p>
                     </div>
@@ -194,10 +194,10 @@ export const view = (useService: UseService) => {
 
             {/*	FIB Token Allocation: */}
             <div className="mt-20">
-              <span className="text-[36px] leading-[44px] font-normal bg-gradient-to-r text-transparent bg-clip-text from-[#8D42E7] via-[#E7429B] to-[#E7A542]">
+              <span className="text-[40px] leading-[44px] font-normal bg-gradient-to-r text-transparent bg-clip-text from-[#8D42E7] via-[#E7429B] to-[#E7A542]">
                 FIB Token Allocation:
               </span>
-              <p className="font-normal text-neutral-50 mt-5 text-[26px]">
+              <p className="font-normal text-neutral-50 mt-5 text-[25px]">
                 The total supply is 1,100,000,000 FIB and is distributed as
                 follows:
               </p>
@@ -209,7 +209,7 @@ export const view = (useService: UseService) => {
                       <span className="text-[36px] leading-[44px] font-normal bg-gradient-to-r text-transparent bg-clip-text from-[#8D42E7] via-[#E7429B] to-[#E7A542] mr-[30px]">
                         01
                       </span>
-                      <p className="font-normal text-[26px] text-neutral-50">
+                      <p className="font-normal text-[25px] text-neutral-50">
                         Staking and Mining Rewards: 30%
                       </p>
                     </div>
@@ -220,7 +220,7 @@ export const view = (useService: UseService) => {
                       <span className="text-[36px] leading-[44px] font-normal bg-gradient-to-r text-transparent bg-clip-text from-[#8D42E7] via-[#E7429B] to-[#E7A542] mr-[30px]">
                         02
                       </span>
-                      <p className="font-normal text-[26px] text-neutral-50">Group: 20%</p>
+                      <p className="font-normal text-[25px] text-neutral-50">Group: 20%</p>
                     </div>
                   </div>
 
@@ -229,7 +229,7 @@ export const view = (useService: UseService) => {
                       <span className="text-[36px] leading-[44px] font-normal bg-gradient-to-r text-transparent bg-clip-text from-[#8D42E7] via-[#E7429B] to-[#E7A542] mr-[30px]">
                         03
                       </span>
-                      <p className="font-normal text-[26px] text-neutral-50">Fund: 20%</p>
+                      <p className="font-normal text-[25px] text-neutral-50">Fund: 20%</p>
                     </div>
                   </div>
 
@@ -238,7 +238,7 @@ export const view = (useService: UseService) => {
                       <span className="text-[36px] leading-[44px] font-normal bg-gradient-to-r text-transparent bg-clip-text from-[#8D42E7] via-[#E7429B] to-[#E7A542] mr-[30px]">
                         04
                       </span>
-                      <p className="font-normal text-[26px] text-neutral-50">Ecosystem Funding: 15%</p>
+                      <p className="font-normal text-[25px] text-neutral-50">Ecosystem Funding: 15%</p>
                     </div>
                   </div>
                   <div className="mt-5">
@@ -246,7 +246,7 @@ export const view = (useService: UseService) => {
                       <span className="text-[36px] leading-[44px] font-normal bg-gradient-to-r text-transparent bg-clip-text from-[#8D42E7] via-[#E7429B] to-[#E7A542] mr-[30px]">
                         05
                       </span>
-                      <p className="font-normal text-[26px] text-neutral-50">Private community sale: 15%</p>
+                      <p className="font-normal text-[25px] text-neutral-50">Private community sale: 15%</p>
                     </div>
                   </div>
                 </div>
@@ -262,7 +262,7 @@ export const view = (useService: UseService) => {
 
             {/*		Affiliate marketing rewards: */}
             <div className="mt-20">
-              <span className="text-[36px] leading-[44px] font-normal bg-gradient-to-r text-transparent bg-clip-text from-[#8D42E7] via-[#E7429B] to-[#E7A542]">
+              <span className="text-[40px] leading-[44px] font-normal bg-gradient-to-r text-transparent bg-clip-text from-[#8D42E7] via-[#E7429B] to-[#E7A542]">
                 FIB Token Allocation:
               </span>
 
@@ -274,7 +274,7 @@ export const view = (useService: UseService) => {
                       <span className="text-[36px] leading-[44px] font-normal bg-gradient-to-r text-transparent bg-clip-text from-[#8D42E7] via-[#E7429B] to-[#E7A542] mr-[30px]">
                         01
                       </span>
-                      <p className="font-normal text-[26px] text-neutral-50">
+                      <p className="font-normal text-[25px] text-neutral-50">
                         Level 1 affiliate marketing: 8%
                       </p>
                     </div>
@@ -285,7 +285,7 @@ export const view = (useService: UseService) => {
                       <span className="text-[36px] leading-[44px] font-normal bg-gradient-to-r text-transparent bg-clip-text from-[#8D42E7] via-[#E7429B] to-[#E7A542] mr-[30px]">
                         02
                       </span>
-                      <p className="font-normal text-[26px] text-neutral-50">
+                      <p className="font-normal text-[25px] text-neutral-50">
                         Level 2 affiliate marketing: 2%
                       </p>
                     </div>
@@ -296,7 +296,7 @@ export const view = (useService: UseService) => {
                       <span className="text-[36px] leading-[44px] font-normal bg-gradient-to-r text-transparent bg-clip-text from-[#8D42E7] via-[#E7429B] to-[#E7A542] mr-[30px]">
                         03
                       </span>
-                      <p className="font-normal text-[26px] text-neutral-50">
+                      <p className="font-normal text-[25px] text-neutral-50">
                         Level 3 affiliate marketing: 2%
                       </p>
                     </div>

@@ -101,14 +101,14 @@ export const view = (useService: UseService) => {
 
     return <main className={c(styles.main)}>
         <main
-        className={c(styles.main, "bg-backgr2 bg-no-repeat bg-cover bg-center")}
+        className={c(styles.main, "bg-backgr5 bg-no-repeat bg-cover bg-center")}
         >
         <div className="responsive">
           <div className="container">
             <div className="mt-5">
               {/* white book */}
               <div className="mt-1">
-                <span className="text-[50px] leading-[44px] font-normal bg-gradient-to-r text-transparent bg-clip-text from-[#8D42E7] via-[#E7429B] to-[#E7A542]">
+                <span className="text-[50px] leading-[44px] font-Arial bg-gradient-to-r text-transparent bg-clip-text from-[#8D42E7] via-[#E7429B] to-[#E7A542]">
                   White book
                 </span>
 
